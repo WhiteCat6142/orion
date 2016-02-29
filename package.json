@@ -1,0 +1,27 @@
+{
+  "name": "orion",
+  "version": "0.0.1",
+  "dependencies": {
+    "hogan": "^1.0.2"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteCat6142/orion.git"
+  },
+  "keywords": [
+    "js",
+    "render",
+    "template",
+    "binding"
+  ],
+  "author": "WhiteCat6142",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhiteCat6142/orion/issues"
+  },
+  "homepage": "https://github.com/WhiteCat6142/orion#readme",
+  "description": "",
+  "devDependencies": {
+  }
+}
